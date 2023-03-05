@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "uber-2.0-tuto",
-    "slug": "uber-2.0-tuto",
+    "name": "uber",
+    "slug": "uber",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
